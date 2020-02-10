@@ -1,0 +1,19 @@
+h1{
+    border: 1px solid red;
+    margin:10px 50px;
+    width: 100px;
+    padding: 30px;
+}
+
+.red_bg{
+    background-color: red;
+    color: aqua
+}
+
+.blue_bg{
+    background: blue;
+}
+
+#special{
+    background-color: black;
+}
